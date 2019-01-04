@@ -2,4 +2,8 @@
 修改一次内容
 第二次修改diff
 dev:1111
-master:123456
+<<<<<<< HEAD
+featrue1:123456
+=======
+featrue1:123456
+>>>>>>> feature1
